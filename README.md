@@ -13,6 +13,9 @@ HTML5
 
 CSS3 (external stylesheet)
 
+# Screenshot
+![alt text](image.png)
+
 # File Structure
 /registration-form
 │
