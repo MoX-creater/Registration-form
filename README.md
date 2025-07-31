@@ -25,7 +25,7 @@ CSS3 (external stylesheet)
 
 #  How to Run It
 Clone the repo or download the ZIP
-git clone https://github.com/your-username/Registration-form.git
+https://github.com/MoX-creater/Registration-form.git
 
 Open the folder
 
