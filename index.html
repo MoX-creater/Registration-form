@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Student Registration Form 📝</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1> STUDENT REGISTRATION FORM</h1>
+  <p><em>Please fill out all fields... your future depends on it </em></p>
+
+  <form action="#" method="POST">
+    
+    <label for="name">Full Name:</label>
+    <input type="text" id="name" name="name" required pattern="[A-Za-z\s]+" title="Only letters and spaces allowed">
+
+    <label for="email">Email Address:</label>
+    <input type="email" id="email" name="email" required>
+
+    <label for="age">Age (no lying! 👀):</label>
+    <input type="number" id="age" name="age" required min="10" max="100">
+
+    <input type="submit" value="REGISTER NOW! 🚀">
+    <input type="reset" value="RESET EVERYTHING 😨">
+
+  </form>
+
+</body>
+</html>
